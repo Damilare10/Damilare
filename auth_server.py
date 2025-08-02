@@ -19,7 +19,7 @@ CLIENT_SECRET = os.getenv("TWITTER_CLIENT_SECRET")
 AUTH_URL = "https://twitter.com/i/oauth2/authorize"
 TOKEN_URL = "https://api.twitter.com/2/oauth2/token"
 SCOPE = "tweet.read tweet.write users.read offline.access like.write"
-CALLBACK_URL = "https://telegram-bot-production-d526.up.railway.app/twitter/callback"
+CALLBACK_URL = "https://damilare-production-13b0.up.railway.app/twitter/callback"
 API_KEY = os.getenv("TELEGRAM_TOKEN")
 
 

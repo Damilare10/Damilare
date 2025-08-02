@@ -61,7 +61,7 @@ REQUIRED_GROUP = "@telemtsa"
 SUPPORT_URL = "https://t.me/web3kaijun"
 ADMINS = [6229232611]  # Telegram IDs of admins
 GROUP_ID = -1002828603829
-OAUTH_URL = "https://telegram-bot-production-d526.up.railway.app/twitter/connect"
+OAUTH_URL = "https://damilare-production-13b0.up.railway.app/twitter/connect"
 
 
 # ──────────────────────── UTILITIES ─────────────────────────
