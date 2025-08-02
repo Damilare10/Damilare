@@ -1,2 +1,0 @@
-# Damilare
-Dami repository
